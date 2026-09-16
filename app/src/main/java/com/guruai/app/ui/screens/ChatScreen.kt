@@ -198,5 +198,7 @@ private fun MessageBubble(message: ChatMessage) {
                 Text(message.content, color = Color.White, fontSize = 15.sp, lineHeight = 22.sp)
             }
         }
+        
     }
 }
+// Trigger CodeRabbit
